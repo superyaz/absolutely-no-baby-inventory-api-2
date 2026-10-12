@@ -1,0 +1,6 @@
+{
+  "name": "Absolutely No Baby - Inventario Multi-Tienda",
+  "description": "Sistema centralizado de gestión de inventario en tiempo real para Absolutely No Baby en puntos de venta del Valle de Aburrá. Soporta codificación de 7 dígitos, generación e impresión de etiquetas, lector de código de barras, transferencias multi-tienda, conteos físicos y control de acceso por roles.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

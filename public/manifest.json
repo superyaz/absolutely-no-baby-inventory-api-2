@@ -1,0 +1,22 @@
+{
+  "short_name": "ANB Inventario",
+  "name": "Absolutely No Baby - Inventario Multi-Tienda",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "description": "Sistema de gestión de inventarios en tiempo real para Absolutely No Baby en puntos de venta del Valle de Aburrá."
+}
